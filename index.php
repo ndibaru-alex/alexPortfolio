@@ -192,14 +192,14 @@
           </div>
           <div class="item">
             <div class="thumb">
-              <a href="https://fourtechglobalsolutions.com/commerce/"> <img src="assets/img/commerce.PNG" alt="Thumb" /></a>
+              <a href="https://shoptemp-frontend.onrender.com/"> <img src="assets/img/commerce.PNG" alt="Thumb" /></a>
               <div class="overlay-number">
                 <h3>02</h3>
               </div>
             </div>
             <div class="info">
               <a href="https://fourtechglobalsolutions.com/commerce/">
-                <h4>Project on an Ecommerce Website</h4>
+                <h4>Highlights my skill set in MERN that is mongoDb react.js epxpress.js and node for quality full stack web development </h4>
               </a>
               <p>
                 Have a look at this fully functional e-commerce website to demonstrate my skills in full stack web development.
@@ -862,7 +862,7 @@
             <h4>Phone</h4>
             <p>
               Reach Out through<br />
-              +254 705 875 302 
+              +254 705 875 302
             </p>
           </div>
         </div>
@@ -880,9 +880,9 @@
           }
           emailjs.send('service_ent53df', 'template_e9wvnup', params).then(function(res) {
             alert('Mail sent successfully');
-            var allInputs = document.querySelectorAll('input');            
+            var allInputs = document.querySelectorAll('input');
             allInputs.forEach(singleInput => singleInput.value = '');
-           message.value ='';
+            message.value = '';
 
 
 
